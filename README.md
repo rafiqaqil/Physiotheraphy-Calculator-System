@@ -11,3 +11,12 @@ https://play.google.com/store/apps/details?id=com.mirza.app
 
 ![Screenshot](PTCALC.png)
 
+
+# ScreenShots
+![Screenshot](PT_SCR-1.png)
+![Screenshot](PT_SCR-2.png)
+![Screenshot](PT_SCR-3.png)
+![Screenshot](PT_SCR-4.png)
+![Screenshot](PT_SCR-5.png)
+
+
