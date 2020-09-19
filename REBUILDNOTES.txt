@@ -1,0 +1,14 @@
+#Delete public/storage & Create Link
+php artisan storage:link
+
+#CREATE DATABASE - eclaim on phpmyadmin & RUN COMMAND to migrate tables
+php artisan migrate:fresh
+
+# Start Test Serve
+php artisan serve
+
+FUNCTIONAL NOTES
+1.ADD IMAGE - Resize (Profile / post)
+2.ADD DATA (profile/transaction/post)
+3.PERMANENT DELETE DATA (post transaction)
+4.SOFT DELETE / RECYCLE BIN (transactions)
